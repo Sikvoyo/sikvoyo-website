@@ -10,4 +10,4 @@ There will be more stuff soon! I'm still working on it!
 
 # Made with:
 
-Plain HTML and CSS. React.js framework. Deployed with Netlify
+Plain HTML and CSS. React.js framework. Deployed with Netlify. You can see all NPM packages I used in package.json of course
