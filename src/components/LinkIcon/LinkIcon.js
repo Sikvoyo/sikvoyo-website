@@ -25,7 +25,7 @@ const LinkIcon = (props) => {
    return(
       <>
          <div className="linkIcon">
-            <a  href={link} style={{transform: `rotate(${props.angle}deg) translateX(${getTranslate(width)}px) rotate(-${props.angle}deg)`}}
+            <a href={link} style={{transform: `rotate(${props.angle}deg) translateX(${getTranslate(width)}px) rotate(-${props.angle}deg)`}}
             onMouseOver={() => hoverChange(name)} onMouseLeave={() => hoverChange(DEFAULT_BG_TEXT)} className={classN}>
                <img className="rotate" src={require(`../../img/icons/${image}`)} alt={linkName}/>
             </a>

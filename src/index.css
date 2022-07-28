@@ -37,3 +37,9 @@ code {
 {
   color: #ae00ff;
 }
+
+/* чтобы не трогало текст */
+.not-affect {
+  position: relative;
+  z-index: 3;
+}

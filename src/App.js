@@ -7,6 +7,7 @@ import BGTest from './components/BGText/BGText.jsx';
 import AboutMe from './components/AboutMe/AboutMe';
 import Discord from './pages/Discord.jsx';
 import Skills from './components/Skills/Skills';
+import Footer from './components/Footer/Footer';
 import { DEFAULT_BG_TEXT } from './consts';
 import './App.css';
 
@@ -31,6 +32,7 @@ function App() {
           </Start>
           <AboutMe hoverChange={setBGText}/>
           <Skills hoverChange={setBGText}/>
+          <Footer />
           </>
       } />
       <Route path='/discord' element={

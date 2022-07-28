@@ -1,0 +1,28 @@
+#skillList {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #ae00ff;
+   flex-direction: column;
+   padding: 20px;
+}
+
+#skillSize {
+   padding: 10px;
+   width: 80%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+#skillList img {
+   width: 5vw;
+   margin: 10px;
+   min-width: 75px;
+}
+
+h1 {
+   font-size: 5em;
+   margin: 0px;
+}

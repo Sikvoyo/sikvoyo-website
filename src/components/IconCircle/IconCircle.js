@@ -23,7 +23,6 @@ const IconCircle = (props) => {
    })
 
    const opacityAnimate = (arr, currentElement) => {
-      console.log(currentElement)
       setTimeout(() => {
          arr[currentElement].classList.add('animateIcon');
          if (arr.length !== currentElement + 1) {
