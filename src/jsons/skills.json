@@ -1,0 +1,72 @@
+{
+   "skills": [
+      {
+         "name": "Unity",
+         "icon": "unity.png"
+      },
+      {
+         "name": "Photoshop",
+         "icon": "psd.png"
+      },
+      {
+         "name": "Premiere Pro",
+         "icon": "prproj.png"
+      },
+      {
+         "name": "After Effects",
+         "icon": "aep.png"
+      },
+      {
+         "name": "Blender",
+         "icon": "blend.png"
+      },
+      {
+         "name": "C#",
+         "icon": "cs.png"
+      },
+      {
+         "name": "JavaScript",
+         "icon": "js.png"
+      },
+      {
+         "name": "HTML/CSS",
+         "icon": "html css.png"
+      },
+      {
+         "name": "ProCreate",
+         "icon": "procreate.png"
+      },
+      {
+         "name": "Python",
+         "icon": "py.png"
+      },
+      {
+         "name": "React",
+         "icon": "jsx.png"
+      },
+      {
+         "name": "Illustrator",
+         "icon": "ai.png"
+      },
+      {
+         "name": "FL Studio",
+         "icon": "flp.png"
+      },
+      {
+         "name": "Node.js/Express",
+         "icon": "node.png"
+      },
+      {
+         "name": "PostgreSQL",
+         "icon": "postgres.png"
+      },
+      {
+         "name": "TypeScript",
+         "icon": "ts.png"
+      },
+      {
+         "name": "Rust",
+         "icon": "rs.png"
+      }
+   ]
+}

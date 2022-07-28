@@ -1,0 +1,29 @@
+.iconsContainer {
+   position: absolute;
+   z-index: 2;
+   /* width: 100vw;
+   height: 100vh; */
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   animation: Protation 60s infinite linear;
+}
+
+.centr {
+   /* width: 100vw;
+   height: 100vh;
+   position: absolute;
+   z-index: 2; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+@keyframes Protation {
+   from {
+      transform: rotate(0deg);
+   }
+   to {
+      transform: rotate(359deg);
+   }
+}

@@ -1,0 +1,24 @@
+body {
+   background-color: rgb(20, 20, 20);
+}
+
+#discordH1 {
+   font-size: 5em;
+   color: #ae00ff;;
+}
+
+@media only screen and (max-width: 900px) {
+   #discordH1 {
+      font-size: 3em;
+      color: #ae00ff;;
+   }
+}
+
+#discordContainer {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+}

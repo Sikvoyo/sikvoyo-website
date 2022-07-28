@@ -1,0 +1,55 @@
+.logoContainer
+{
+   height: 100vh;
+   /* position: relative;
+   z-index: 3; */
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   align-items: center;
+   animation: initialScaleLogo 1s forwards ease-in-out;
+}
+
+@media only screen and (max-width: 700px) {
+   .logoContainer {
+      height: 100vh;
+      /* position: relative;
+      z-index: 3; */
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      float: none;
+      margin: 0 auto;
+      align-items: center;
+      animation: initialScaleLogo 1s forwards ease-in-out;
+   }
+}
+
+.logo {
+   width: 25vw;
+   height: auto;
+   min-width: 125px;
+   -webkit-user-drag: none;
+   user-select: none;
+   -moz-user-select: none;
+   pointer-events: none;
+   animation: rotation 60s infinite linear;
+}
+
+@keyframes rotation {
+   from {
+      transform: rotate(0deg);
+   }
+   to {
+      transform: rotate(-359deg);
+   }
+}
+
+@keyframes initialScaleLogo {
+   from {
+      transform: scale(0);
+   }
+   to {
+      transform: scale(1);
+   }
+}
