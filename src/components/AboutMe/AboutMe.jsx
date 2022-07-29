@@ -25,8 +25,6 @@ const AboutMe = (props) => {
       'Weakest C# enjoyer',
       'The best HTML programmer',
       'Music is cool',
-      'Anime is cool',
-      'Videogames is poggers',
       'Dasher',
       'Anarchy\'s friend',
       'Pasta with molten cheese is the best',
@@ -37,7 +35,6 @@ const AboutMe = (props) => {
       'kocham cię <3',
       'ZTM',
       'trans rights',
-      'Stand with Ukraine!',
       'ø'
    ]
 
