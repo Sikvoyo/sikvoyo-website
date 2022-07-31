@@ -1,6 +1,6 @@
 # My personal website
 
-### `1.4.1`
+### `1.4.2`
 
 # What does it have
 
