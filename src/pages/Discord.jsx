@@ -9,7 +9,7 @@ const Discord = (props) => {
    return(
    <>
       <div id='discordContainer'>
-         <h1 id='discordH1'>sikvoyø#1992</h1>
+         <h1 id='discordH1'>sikvoyø#2445</h1>
          <Button buttonText="Go back" click={navigateHome}/>
       </div>
    </>
