@@ -44,6 +44,16 @@
          "image": "spotify.png",
          "link": "https://open.spotify.com/user/uf54ekf86axg4lvzivm1wedqr",
          "name": "Spotify"
+      },
+      {
+         "image": "inst.png",
+         "link": "https://instagram.com/sikvoyo",
+         "name": "Instagram"
+      },
+      {
+         "image": "telegram.png",
+         "link": "https://youtu.be/_TPbzOO9XNw",
+         "name": "Telegram"
       }
    ]
 }

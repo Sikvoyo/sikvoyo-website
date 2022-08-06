@@ -28,7 +28,7 @@
 .logo {
    width: 25vw;
    height: auto;
-   min-width: 125px;
+   min-width: 200px;
    -webkit-user-drag: none;
    user-select: none;
    -moz-user-select: none;

@@ -45,12 +45,24 @@
          "icon": "jsx.png"
       },
       {
+         "name": "FL Studio",
+         "icon": "flp.png"
+      },
+      {
+         "name": "TypeScript",
+         "icon": "ts.png"
+      },
+      {
          "name": "Illustrator",
          "icon": "ai.png"
       },
       {
-         "name": "FL Studio",
-         "icon": "flp.png"
+         "name": "Next.js",
+         "icon": "next.png"
+      },
+      {
+         "name": "Sass",
+         "icon": "scss.png"
       },
       {
          "name": "Node.js",
@@ -59,10 +71,6 @@
       {
          "name": "PostgreSQL",
          "icon": "postgres.png"
-      },
-      {
-         "name": "TypeScript",
-         "icon": "ts.png"
       },
       {
          "name": "Rust",

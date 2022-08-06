@@ -5,6 +5,7 @@ body {
 #discordH1 {
    font-size: 5em;
    color: #ae00ff;;
+   margin: 20px;
 }
 
 @media only screen and (max-width: 900px) {
