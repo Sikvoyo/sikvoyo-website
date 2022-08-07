@@ -1,6 +1,6 @@
 import React from 'react';
 import './Discord.css';
-import Button from '../components/Button/Button';
+import Button from '../../components/Button/Button';
 
 const Discord = (props) => {
 

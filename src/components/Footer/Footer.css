@@ -7,4 +7,12 @@ footer {
 
 footer a {
    color: #ae00ff;
+   margin: 0px 10px;
+}
+
+#linksArray {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   font-size: 0.8em;
 }
