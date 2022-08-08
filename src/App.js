@@ -1,6 +1,7 @@
 import {React} from 'react';
 import {Routes, Route, useNavigate} from 'react-router-dom';
 import loadable from '@loadable/component';
+import Funny from './pages/Funny/Funny'
 import './App.css';
 
 const Home = loadable(() => import('./pages/Home/Home'));
@@ -19,11 +20,14 @@ function App() {
     <>
     <Routes>
       <Route index element={
-        <Home />
+        <Home/>
       } />
       <Route path='/discord' element={
         <Discord navigateHome={navigateHome}/>
       } />
+      <Route path='/funny' element={
+        <Funny />
+      }/>
       <Route path='*' element={
         <FourOFour />
       }/>

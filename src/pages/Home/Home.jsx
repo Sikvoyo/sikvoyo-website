@@ -6,7 +6,7 @@ import AboutMe from "../../components/AboutMe/AboutMe"
 import Skills from "../../components/Skills/Skills"
 import Footer from "../../components/Footer/Footer"
 import { DEFAULT_BG_TEXT } from "../../consts"
-import {React, useState} from 'react';
+import {React, useState } from 'react';
 
 const Home = () => {
     const [bgText, setBGText] = useState(DEFAULT_BG_TEXT);
