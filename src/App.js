@@ -7,6 +7,7 @@ import './App.css';
 const Home = loadable(() => import('./pages/Home/Home'));
 const Discord = loadable(() => import('./pages/Discord/Discord'));
 const FourOFour = loadable(() => import('./pages/404/404'));
+const Birthday = loadable(() => import('./pages/280822/280822'));
 
 function App() {
 
@@ -27,6 +28,9 @@ function App() {
       } />
       <Route path='/funny' element={
         <Funny />
+      }/>
+      <Route path='/280822' element={
+        <Birthday />
       }/>
       <Route path='*' element={
         <FourOFour />
