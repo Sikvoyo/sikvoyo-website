@@ -12,6 +12,8 @@
 html {
   scrollbar-color: #ae00ff #000;
   font-family: 'Montserrat';
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -36,6 +38,29 @@ code {
 .purple
 {
   color: #ae00ff;
+}
+
+.center-h {
+  left: 50%;
+}
+
+.center-t {
+  text-align: center;
+}
+
+hr {
+  max-width: 300px;
+  border: none;
+  color: #ae00ff;
+  background-color: #ae00ff;
+  height: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.hover-w:hover {
+  transition: all 0.3s;
+  color: white;
 }
 
 /* чтобы не трогало текст */

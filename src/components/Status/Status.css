@@ -1,0 +1,12 @@
+#status {
+    background-color: black;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#status p {
+    color: #ae00ff;
+    font-size: 1.2rem;
+}

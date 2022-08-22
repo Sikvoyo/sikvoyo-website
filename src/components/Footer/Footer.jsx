@@ -7,7 +7,7 @@ const Footer = () => {
    const links = iconsJSON.icons;
 
    const linksArray = links.map((icon, index) => {
-      return <a href={icon.link} key={index}><p>{icon.name}</p></a>
+      return <a className="hover-w" href={icon.link} key={index}><p>{icon.name}</p></a>
    })
 
    return(
