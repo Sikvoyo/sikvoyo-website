@@ -51,7 +51,9 @@ function App() {
         <Favorites />
       }/>
       <Route path='/testing...testing...testing...' element={
-        <Game name='NieR: Automata' author='PlatinumGames' cover='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bob_Odenkirk_%289362546281%29_%28cropped%29.jpg/220px-Bob_Odenkirk_%289362546281%29_%28cropped%29.jpg'/>
+        <>
+          
+        </>
       }/>
       <Route path='*' element={
         <FourOFour />
