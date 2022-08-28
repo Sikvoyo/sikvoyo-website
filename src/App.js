@@ -9,7 +9,6 @@ import './App.css';
 const Home = loadable(() => import('./pages/Home/Home'));
 const Discord = loadable(() => import('./pages/Discord/Discord'));
 const FourOFour = loadable(() => import('./pages/404/404'));
-const Birthday = loadable(() => import('./pages/280822/280822'));
 const Projects = loadable(() => import('./pages/Projects/Projects'));
 const Drawings = loadable(() => import('./pages/Drawings/Drawings'));
 const Videos = loadable(() => import('./pages/Videos/Videos'));
@@ -34,9 +33,6 @@ function App() {
       } />
       <Route path='/funny' element={
         <Funny />
-      }/>
-      <Route path='/280822' element={
-        <Birthday />
       }/>
       <Route path='/projects' element={
         <Projects />
