@@ -14,7 +14,7 @@ const LinkIcon = (props) => {
 
    const getTranslate = (w) => {
       const minValue = 100;
-      const maxValue = 250;
+      const maxValue = 300;
 
       const rawValue = w / 4;
       const newValue = Math.min(Math.max(rawValue, minValue), maxValue);
