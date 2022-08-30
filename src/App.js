@@ -2,7 +2,6 @@ import {React} from 'react';
 import {Routes, Route, useNavigate} from 'react-router-dom';
 import loadable from '@loadable/component';
 import Funny from './pages/Funny/Funny'
-import Game from './components/Things/Game/Game';
 import './App.css';
 
 
