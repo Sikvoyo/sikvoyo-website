@@ -8,6 +8,11 @@
          "commentsRU": "мурашки по коже"
       },
       {
+         "name": "Life Letters",
+         "artist": "Never Get Used To People",
+         "cover": "https://cdns-images.dzcdn.net/images/cover/765b5cc47713109bf01e6996ef403245/500x500.jpg"
+      },
+      {
          "name": "Happppy song",
          "artist": "SOOOO",
          "cover": "https://i.scdn.co/image/ab67616d0000b273c758eb1d1eb12164e0d34aa8",
@@ -27,11 +32,6 @@
          "cover": "https://shadam.net/uploads/posts/2021-10/cover_615f2a0950e1a.jpg",
          "commentsEN": "Jokes aside, this song is banger! Like, no joke. I really hate that one video because of negative associations this song has now :(",
          "commentsRU": "Без шуток, шикарная песня! Я не рофлю. Из-за того самого ролика у всех такие негативные ассоциации с этой песней, это очень грустно :( "
-      },
-      {
-         "name": "Bubble Tea",
-         "artist": "dark cat, Juu, Cinders",
-         "cover": "https://i.scdn.co/image/ab67616d0000b273a8f730230340d31d1276cb23"
       },
       {
          "name": "Metal Crusher",
@@ -54,9 +54,9 @@
          "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/ff/b4/30ffb487-9f3f-e9f8-8569-0431d9dddef3/cover.jpg/600x600bf-60.jpg"
       },
       {
-         "name": "Ticking",
-         "artist": "TIN",
-         "cover": "https://avatars.yandex.net/get-music-content/5696151/ca3d6892.a.20220188-1/m1000x1000"
+         "name": "Mirror Temple",
+         "artist": "2 Mello",
+         "cover": "https://f4.bcbits.com/img/a0426095820_10.jpg"
       }
    ]
 }

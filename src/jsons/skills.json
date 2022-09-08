@@ -49,6 +49,10 @@
          "icon": "flp.png"
       },
       {
+         "name": "Clip Studio",
+         "icon": "clip.png"
+      },
+      {
          "name": "TypeScript",
          "icon": "ts.png"
       },

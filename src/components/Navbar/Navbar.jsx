@@ -12,7 +12,7 @@ const Navbar = ({hoverChange}) => {
 
     return(
         <nav className='navbar'>
-            <a href="/" className='navlogo'>sikvoyø</a>
+            <a href="/" className='navlogo'>kvvoya</a>
             <button className='ham' onClick={
                 () => setNavExpanded(!navExpanded)
             }>

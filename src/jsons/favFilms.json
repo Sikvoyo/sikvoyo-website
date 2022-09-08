@@ -50,6 +50,13 @@
          "cover": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b2/ReturnOfTheJediPoster1983.jpg/230px-ReturnOfTheJediPoster1983.jpg"
       },
       {
+         "nameEN": "Bo Burnham: Inside",
+         "nameRU": "Бо Бёрнэм: Дома",
+         "link": "https://www.imdb.com/title/tt14544192/?ref_=tt_ch",
+         "year": "2021",
+         "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Bo_Burnham_-_Inside.jpg"
+      },
+      {
          "nameEN": "Inside Out",
          "nameRU": "Головоломка",
          "link": "https://www.imdb.com/title/tt2096673/?ref_=nv_sr_srsg_0",
@@ -62,13 +69,6 @@
          "link": "https://www.imdb.com/title/tt0121766/?ref_=nv_sr_srsg_0",
          "year": "2005",
          "cover": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/18/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B._%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_III_%D0%9C%D0%B5%D1%81%D1%82%D1%8C_%D1%81%D0%B8%D1%82%D1%85%D0%BE%D0%B2%C2%BB.jpg/189px-%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B._%D0%AD%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_III_%D0%9C%D0%B5%D1%81%D1%82%D1%8C_%D1%81%D0%B8%D1%82%D1%85%D0%BE%D0%B2%C2%BB.jpg"
-      },
-      {
-         "nameEN": "A Silent Voice",
-         "nameRU": "Форма голоса",
-         "link": "https://www.imdb.com/title/tt5323662/?ref_=nv_sr_srsg_0",
-         "year": "2016",
-         "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Koe_no_Katachi%2C_Volume_1.jpg/220px-Koe_no_Katachi%2C_Volume_1.jpg"
       }
    ]
 }
