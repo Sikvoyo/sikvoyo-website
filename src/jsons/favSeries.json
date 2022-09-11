@@ -8,34 +8,6 @@
             "cover": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/d84f69f7-fb3c-420a-ab6b-ac5420ca1e5b/600x900"
         },
         {
-            "nameEN": "Breaking Bad",
-            "nameRU": "Во все тяжкие",
-            "link": "https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0",
-            "year": "2008",
-            "cover": "http://royllent.ru/wp-content/uploads/2015/12/WalterWhite.jpg"
-        },
-        {
-            "nameEN": "Neon Genesis Evangelion",
-            "nameRU": "Евангелион",
-            "link": "https://www.imdb.com/title/tt0112159/?ref_=nv_sr_srsg_0",
-            "year": "1995",
-            "cover": "https://pm1.narvii.com/5611/22abb14c6409520e58965ffb8191944d9c65c391_hq.jpg"
-        },
-        {
-            "nameEN": "Well, Just You Wait!",
-            "nameRU": "Ну, погоди!",
-            "link": "https://www.imdb.com/title/tt0234355/?ref_=nv_sr_srsg_0",
-            "year": "1969",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMTA3N2ZkZDctMmZlMy00OGZmLWI3ZDEtYTBjNzlmODYzMTBhXkEyXkFqcGdeQXVyNjA0Mzc0MzI@._V1_FMjpg_UX1000_.jpg"
-        },
-        {
-            "nameEN": "Gravity Falls",
-            "nameRU": "Гравити Фолз",
-            "link": "https://www.imdb.com/title/tt1865718/?ref_=nv_sr_srsg_0",
-            "year": "2012",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX1000_.jpg"
-        },
-        {
             "nameEN": "Kikoriki",
             "nameRU": "Смешарики",
             "link": "https://www.imdb.com/title/tt0853174/?ref_=nv_sr_srsg_0",
@@ -50,11 +22,25 @@
             "cover": "https://m.media-amazon.com/images/M/MV5BNTM4MzMxMWItYzc3NC00ODY0LTg0M2MtYjg4NDg0ZjM0MjdiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
         },
         {
-            "nameEN": "Steins;Gate 0",
-            "nameRU": "Врата;Штейна 0",
-            "link": "https://www.imdb.com/title/tt5514358/?ref_=nv_sr_srsg_0",
-            "year": "2018",
-            "cover": "https://img1.ak.crunchyroll.com/i/spire2/26cab01d95a04956bd5a1a2994d231ea1523422286_full.jpg"
+            "nameEN": "Breaking Bad",
+            "nameRU": "Во все тяжкие",
+            "link": "https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0",
+            "year": "2008",
+            "cover": "http://royllent.ru/wp-content/uploads/2015/12/WalterWhite.jpg"
+        },
+        {
+            "nameEN": "Death Note",
+            "nameRU": "Тетрадь смерти",
+            "link": "https://www.imdb.com/title/tt0877057/?ref_=nv_sr_srsg_0",
+            "year": "2006",
+            "cover": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
+        },
+        {
+            "nameEN": "Neon Genesis Evangelion",
+            "nameRU": "Евангелион",
+            "link": "https://www.imdb.com/title/tt0112159/?ref_=nv_sr_srsg_0",
+            "year": "1995",
+            "cover": "https://pm1.narvii.com/5611/22abb14c6409520e58965ffb8191944d9c65c391_hq.jpg"
         },
         {
             "nameEN": "Better Call Saul",
@@ -64,11 +50,25 @@
             "cover": "https://flxt.tmsimg.com/assets/p13837077_b_v8_aa.jpg"
         },
         {
-            "nameEN": "Death Note",
-            "nameRU": "Тетрадь смерти",
-            "link": "https://www.imdb.com/title/tt0877057/?ref_=nv_sr_srsg_0",
-            "year": "2006",
-            "cover": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
+            "nameEN": "Steins;Gate 0",
+            "nameRU": "Врата;Штейна 0",
+            "link": "https://www.imdb.com/title/tt5514358/?ref_=nv_sr_srsg_0",
+            "year": "2018",
+            "cover": "https://img1.ak.crunchyroll.com/i/spire2/26cab01d95a04956bd5a1a2994d231ea1523422286_full.jpg"
+        },
+        {
+            "nameEN": "Gravity Falls",
+            "nameRU": "Гравити Фолз",
+            "link": "https://www.imdb.com/title/tt1865718/?ref_=nv_sr_srsg_0",
+            "year": "2012",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "nameEN": "Well, Just You Wait!",
+            "nameRU": "Ну, погоди!",
+            "link": "https://www.imdb.com/title/tt0234355/?ref_=nv_sr_srsg_0",
+            "year": "1969",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTA3N2ZkZDctMmZlMy00OGZmLWI3ZDEtYTBjNzlmODYzMTBhXkEyXkFqcGdeQXVyNjA0Mzc0MzI@._V1_FMjpg_UX1000_.jpg"
         }
     ]
 }

@@ -4,59 +4,69 @@
          "name": "iiillluuuvvvUUU",
          "artist": "SOOOO",
          "cover": "https://i.scdn.co/image/ab67616d0000b273c758eb1d1eb12164e0d34aa8",
+         "year": "2019",
          "commentsEN": "goosebumps",
          "commentsRU": "мурашки по коже"
       },
       {
          "name": "Life Letters",
          "artist": "Never Get Used To People",
+         "year": "2018",
          "cover": "https://cdns-images.dzcdn.net/images/cover/765b5cc47713109bf01e6996ef403245/500x500.jpg"
       },
       {
-         "name": "Happppy song",
-         "artist": "SOOOO",
-         "cover": "https://i.scdn.co/image/ab67616d0000b273c758eb1d1eb12164e0d34aa8",
+         "name": "Attack",
+         "artist": "Thirty Seconds To Mars",
+         "year": "2005",
+         "cover": "https://i.scdn.co/image/ab67616d0000b273865b538169f199dac610b854",
          "commentsEN": "I sincerely envy those who haven't experienced this masterpiece. This song is so strong you truly feel this anger and chaos from this song. It's just... WOW!",
          "commentsRU": "Я искренне завидую тем, кто ещё не слушал этот шедевр. Это такая сильная песня, прям чувствуешь эту злость, этот хаос. Это просто... нет слов."
       },
       {
-         "name": "Bad Apple",
-         "artist": "nomico",
-         "cover": "https://i1.sndcdn.com/artworks-d0TBYYnC1ckfe9Aa-LLC9og-t500x500.jpg",
+         "name": "Human After All",
+         "artist": "Daft Punk",
+         "year": "2005",
+         "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Humanafterall.jpg"
+      },
+      {
+         "name": "My Time",
+         "artist": "bo en",
+         "year": "2013",
+         "cover": "https://i1.sndcdn.com/artworks-000056408555-d1h6jp-t500x500.jpg",
          "commentsEN": "I know, there is too much weeb stuff in my top list but I can't do anything with it. This song is magnificent and the video has the smoothest transitions I've ever seen",
          "commentsRU": "Я знаю, в этом топе слишком много анимешной фигни, но что поделать... Это превосходная песня, а в видосе самые плавные переходы, которые я видел."
       },
       {
-         "name": "Camel by Camel",
-         "artist": "Sandy Marton",
-         "cover": "https://shadam.net/uploads/posts/2021-10/cover_615f2a0950e1a.jpg",
+         "name": "Дзифт",
+         "artist": "ШАРЫ",
+         "year": "2020",
+         "cover": "https://avatars.yandex.net/get-music-content/2411511/3f98109e.a.13004090-1/200x200",
          "commentsEN": "Jokes aside, this song is banger! Like, no joke. I really hate that one video because of negative associations this song has now :(",
          "commentsRU": "Без шуток, шикарная песня! Я не рофлю. Из-за того самого ролика у всех такие негативные ассоциации с этой песней, это очень грустно :( "
       },
       {
-         "name": "Metal Crusher",
-         "artist": "Toby Fox",
-         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d7/19/aa/d719aa09-00c3-4a12-89d5-be518f6467a8/f974a425-596d-47d0-8c3f-432ee56bfc3d.jpg/1200x1200bf-60.jpg"
-      },
-      {
-         "name": "Human After All",
-         "artist": "Daft Punk",
-         "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Humanafterall.jpg"
-      },
-      {
-         "name": "Aerodynamic",
-         "artist": "Daft Punk",
-         "cover": "https://cdns-images.dzcdn.net/images/cover/2e018122cb56986277102d2041a592c8/500x500.jpg"
-      },
-      {
-         "name": "Чудо",
-         "artist": "Дайте танк (!)",
-         "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/ff/b4/30ffb487-9f3f-e9f8-8569-0431d9dddef3/cover.jpg/600x600bf-60.jpg"
+         "name": "Pixel Pig",
+         "artist": "Di Young",
+         "year": "2020",
+         "cover": "https://i.scdn.co/image/ab67616d0000b273393845479801e2e3365bc78e"
       },
       {
          "name": "Mirror Temple",
          "artist": "2 Mello",
+         "year": "2018",
          "cover": "https://f4.bcbits.com/img/a0426095820_10.jpg"
+      },
+      {
+         "name": "I Hate Everything About You",
+         "artist": "Three Days Grace",
+         "year": "2003",
+         "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Three_Days_Grace_%282003_album%29.jpg/220px-Three_Days_Grace_%282003_album%29.jpg"
+      },
+      {
+         "name": "Attack of the Killer Queen",
+         "artist": "Toby Fox, Lena Raine, Marcy Nabors",
+         "year": "2021",
+         "cover": "https://f4.bcbits.com/img/a0588444455_10.jpg"
       }
    ]
 }

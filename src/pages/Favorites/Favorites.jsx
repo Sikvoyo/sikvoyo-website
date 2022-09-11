@@ -28,7 +28,7 @@ const Favorites = () => {
     });
 
     const songsArray = songs.map((thing, index) => {
-        return <Game key={index+30} name={thing.name} author={thing.artist} cover={thing.cover}/>
+        return <Game key={index+30} name={thing.name} author={thing.artist} cover={thing.cover} year={thing.year}/>
     })
 
     return(
