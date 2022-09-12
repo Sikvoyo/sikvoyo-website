@@ -1,7 +1,34 @@
 {
    "games": [
       {
-         "name": "NieR: Automata",
+         "name": "Deltarune",
+         "author": "Toby Fox",
+         "link": "https://deltarune.com/",
+         "year": "2018",
+         "cover": "https://howlongtobeat.com/games/98168_DELTARUNE.jpg",
+         "commentsEN": "This game is not out yet but I LOVE IT. It's much better than Undertale. It's funny, it's beautiful, it's fun!",
+         "commentsRU": "Игра ещё не вышла, но она уже мне нравится! Гораздо лучше Андертейла. Она смешная, красивая, весёлая!"
+      },
+      {
+         "name": "Portal 2",
+         "author": "Valve",
+         "link": "https://store.steampowered.com/app/620/Portal_2/",
+         "year": "2011",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg?t=1560370884",
+         "commentsEN": "The best game in my opinion. It literally doesn't have any flaws. It's perfect",
+         "commentsRU": "По моему мнению, лучшая игра. У неё ноль минусов. Она идеальная"
+      },
+      {
+         "name": "Portal",
+         "author": "Valve",
+         "link": "https://store.steampowered.com/app/400/Portal/",
+         "year": "2007",
+         "cover": "https://howlongtobeat.com/games/256px-Portal_standalonebox.jpg",
+         "commentsEN": "I don't get it how Witcher 3 according to some people is exciting and epic but RDR2 is boring and slow. It's not boring!!! It's so cool! Best 20$ spent",
+         "commentsRU": "Не понимаю, как можно считать, что Дерьмак 3 бодрая и крутая, а РДР2 скучная и медленная. Да нихрена она не скучная!!! Она превосходная. Лучшие потраченные 20 долларов"
+      },
+      {
+         "name": "Nier: Automata",
          "author": "PlatinumGames, Square Enix",
          "year": "2017",
          "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_600x900_2x.jpg?t=1646911691",
@@ -19,33 +46,6 @@
          "commentsRU": "Какое же это было приключение! Жёппа конечно горит, но красота, геймплей, лор этой игры делают ХК для меня одной из лучших игр"
       },
       {
-         "name": "Deltarune",
-         "author": "Toby Fox",
-         "link": "https://deltarune.com/",
-         "year": "2018",
-         "cover": "https://m.media-amazon.com/images/M/MV5BYTk0MDlhMTQtMTc0ZS00OWQyLTk2MDAtNTQ2ODVmYTQ5NjU3XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_.jpg",
-         "commentsEN": "This game is not out yet but I LOVE IT. It's much better than Undertale. It's funny, it's beautiful, it's fun!",
-         "commentsRU": "Игра ещё не вышла, но она уже мне нравится! Гораздо лучше Андертейла. Она смешная, красивая, весёлая!"
-      },
-      {
-         "name": "Portal 2",
-         "author": "Valve",
-         "link": "https://store.steampowered.com/app/620/Portal_2/",
-         "year": "2011",
-         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg?t=1560370884",
-         "commentsEN": "The best game in my opinion. It literally doesn't have any flaws. It's perfect",
-         "commentsRU": "По моему мнению, лучшая игра. У неё ноль минусов. Она идеальная"
-      },
-      {
-         "name": "Celeste",
-         "author": "Extremely OK Games",
-         "link": "https://store.steampowered.com/app/504230/Celeste/",
-         "year": "2018",
-         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900_2x.jpg?t=1567740774",
-         "commentsEN": "Maybe I'm trans?.. Anyway, amazing platformer. The best platformer actually. Hard yet forgiving",
-         "commentsRU": "Может, я транс?.. Короче, шикарный платформер. Лучший платформер, даже так скажу. Сложный, но прощающий"
-      },
-      {
          "name": "Half-Life 2",
          "author": "Valve",
          "link": "https://store.steampowered.com/app/220/HalfLife_2/",
@@ -55,26 +55,26 @@
          "commentsRU": "It starts with- One thing, I don't know why, it doesn't no matter how hard you try!"
       },
       {
-         "name": "Geometry Dash",
-         "author": "RobTop",
-         "link": "https://store.steampowered.com/app/322170/Geometry_Dash",
-         "year": "2013",
-         "cover": "https://play-lh.googleusercontent.com/sq0hNhqNiuA6j0JW5nMOQCv_wJ6XBq1KpeMNkPN6TsGrrYNsaPrfZ-GiOkk1ap4SqBDA=w526-h296-rw",
+         "name": "Half-Life",
+         "author": "Valve",
+         "link": "https://store.steampowered.com/app/70/HalfLife/",
+         "year": "1998",
+         "cover": "https://howlongtobeat.com/games/256px-Half-Life_Cover_Art.jpg",
          "commentsEN": "Game of my childhood. Also the most addicting game",
          "commentsRU": "Игра детства. Затягивает..."
       },
       {
-         "name": "Disco Elysium",
-         "author": "ZA/UM",
-         "link": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/",
-         "year": "2019",
-         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900_2x.jpg?t=1651764684",
-         "commentsEN": "Everybody should play it because of how good it is.",
-         "commentsRU": "Все должны попробовать Диско Элизиум, это шикарная игра"
+         "name": "Celeste",
+         "author": "Matt Makes Games",
+         "link": "https://store.steampowered.com/app/504230/Celeste/",
+         "year": "2018",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900_2x.jpg?t=1567740774",
+         "commentsEN": "Maybe I'm trans?.. Anyway, amazing platformer. The best platformer actually. Hard yet forgiving",
+         "commentsRU": "Может, я транс?.. Короче, шикарный платформер. Лучший платформер, даже так скажу. Сложный, но прощающий"
       },
       {
          "name": "Overwatch",
-         "author": "Blizzard Entertainment",
+         "author": "Blizzard",
          "link": "https://playoverwatch.com/",
          "year": "2016",
          "cover": "https://upload.wikimedia.org/wikipedia/ru/3/33/Overwatch_Origins_Edition_PC_cover.jpg",
@@ -82,13 +82,13 @@
          "commentsRU": "Сейчас люди издеваются над этой игрой и хейтят её, но когда-то все в неё играли, ведь она так хорошо была сделана и была такой фановой. До сих пор в ней играю, моя любимая онлайн-игра"
       },
       {
-         "name": "Red Dead Redemption 2",
-         "author": "Rockstar",
-         "link": "https://www.rockstargames.com/reddeadredemption2/",
-         "year": "2018",
-         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900_2x.jpg?t=1574472419",
-         "commentsEN": "I don't get it how Witcher 3 according to some people is exciting and epic but RDR2 is boring and slow. It's not boring!!! It's so cool! Best 20$ spent",
-         "commentsRU": "Не понимаю, как можно считать, что Дерьмак 3 бодрая и крутая, а РДР2 скучная и медленная. Да нихрена она не скучная!!! Она превосходная. Лучшие потраченные 20 долларов"
+         "name": "Doki Doki Literature Club!",
+         "author": "Team Salvato",
+         "link": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+         "year": "2017",
+         "cover": "https://howlongtobeat.com/games/49377_Doki_Doki_Literature_Club.jpg",
+         "commentsEN": "Everybody should play it because of how good it is.",
+         "commentsRU": "Все должны попробовать Диско Элизиум, это шикарная игра"
       }
    ]
 }
