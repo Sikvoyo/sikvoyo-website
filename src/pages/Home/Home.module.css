@@ -1,0 +1,15 @@
+.container
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 100vh;
+   background: #000000;
+}
+
+.kvvoya
+{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: normal;
+}
