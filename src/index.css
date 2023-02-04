@@ -14,6 +14,13 @@ html {
   font-family: 'Montserrat';
   scroll-behavior: smooth;
   overflow-x: hidden;
+  background-color: #000;
+}
+
+h1, p 
+{
+  font-family: 'Times New Roman';
+  margin: 20px;
 }
 
 body {
