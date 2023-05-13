@@ -3,6 +3,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
+   flex-direction: column;
    width: 100vw;
    height: 100vh;
    background: #000000;
@@ -12,4 +13,12 @@
 {
    font-family: 'Times New Roman', Times, serif;
    font-weight: normal;
+   margin: 0;
+   padding: 0;
+}
+
+.pinfo
+{
+   max-width: 500px;
+   text-align: center;
 }
